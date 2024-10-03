@@ -1,0 +1,3 @@
+I am just trying to run this in debug mode to view my page and see if it works.  
+
+The Error I get in the virtual environment is: "GET /css/style.css HTTP/1.1" 404 2470
